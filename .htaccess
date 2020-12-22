@@ -6,11 +6,11 @@
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
-RewriteBase /pictures_game/
+RewriteBase /pictures_game_gs/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /pictures_game/index.php [L]
+RewriteRule . /pictures_game_gs/index.php [L]
 </IfModule>
 
 # END WordPress

@@ -20,7 +20,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'pictures_game_db' );
+define( 'DB_NAME', 'great_db' );
 
 /** MySQL database username */
 define( 'DB_USER', 'root' );
@@ -46,14 +46,14 @@ define( 'DB_COLLATE', '' );
  *
  * @since 2.6.0
  */
-define( 'AUTH_KEY',         '#0(y@qt,7C@Q5nnqyCrKvI,Agr){1j}FFR_j)6.a:N^eXUzhYNCDnQzs!>5~QMW%' );
-define( 'SECURE_AUTH_KEY',  'BP(l1.%;s0|LB[~ctp^j@E)RR^40ok}b&3Fa;I/xfFHWua!se3d[>mw!oIb5[5xh' );
-define( 'LOGGED_IN_KEY',    'q}h|Kdx[mvLvU]FV^=hU!w{I~.nsxdEp!eljRU)ECcwUX2-bKbkyens<r;,]Y9bC' );
-define( 'NONCE_KEY',        'K5Stfl |7?1$/=|Uf3XvOY=T|(xhhC=yn(u#N3hgE*U2H1-<{Xb-,a3H9VS)vt_*' );
-define( 'AUTH_SALT',        '35yLS|&Q=; Sz35kc46+ zcoglGI?$FUeiB+Vi5jshwZlf0`hWgpeRO80gks1X>5' );
-define( 'SECURE_AUTH_SALT', '#@ ~kawuI.TW=K6PurWXc$BK|VG%t[N{Y>ZML!h[H3fa-UU4zv;DPf~%vu +V,Wj' );
-define( 'LOGGED_IN_SALT',   '/}zLf2=g[CFR<wrRk$}[P+7wXrz-U3PHNZY!B=ju^INWm](dlz`G[t4b86M?.n_`' );
-define( 'NONCE_SALT',       'FS,U*d|M%*RGX2]Zm Bp!+Jc@ySib?3tfhHf7yRKyt2<-mlNg7{R_dOeZ[ta#GC`' );
+define( 'AUTH_KEY',         '=~`/@k#lfI`7;!&k6u}w*;ud)LyRdN??I$^:XY7$FF3s.+/t>#~7JOipZry> z!Q' );
+define( 'SECURE_AUTH_KEY',  '6M<Ycs[`iAC)Dm[b%irB`T4L#CkE+.1tQ{4k}kP_c[sIYx`J|:^vu_ {e!!Qek,,' );
+define( 'LOGGED_IN_KEY',    '`p:?vldK!Z,[{B~4gpCe-#pwfi5!FiYWr~DK|vm~f;OS]f,sWaI_L9f>7B]/CS%X' );
+define( 'NONCE_KEY',        'd#%VU;0f+CEU-@C7`d-aHsUQw]c(*WiBI&+/k:9x>5txo&[6fjsXkugpqw6dml%b' );
+define( 'AUTH_SALT',        'whFaV_,T9Bx|9P#ug>KDt%B+<2>d}?=T}o04(!9SjvB!Fq);FjR]k:h==]^@/}IL' );
+define( 'SECURE_AUTH_SALT', '3husnZ6oC+C(h9yYUlEHQn=od$po(N`izgQ)zqnRJG>#m>Xi =MZ^V %{oub&9GQ' );
+define( 'LOGGED_IN_SALT',   ':pMAW*dk`$^G6GE?~U!=hQxfuDD7^~*7a#nenER}/?,bN/ -jozeGNxKwi9,+2/:' );
+define( 'NONCE_SALT',       '`[rsqz]J||7t>7=2GTOM6?X| SA_iB_V0L({7DY-NbHWoCh8|R4_kH)6mGnF3tH?' );
 
 /**#@-*/
 
@@ -88,5 +88,3 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
-
-$_SERVER['HTTPS'] = 'on';
