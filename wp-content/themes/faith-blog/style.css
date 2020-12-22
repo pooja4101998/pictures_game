@@ -5382,7 +5382,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
  * -------------------------- */
 @font-face {
     font-family: 'FontAwesome';
-    src: url("/https://pooja4101998.github.io/pictures_game/wp-content/themes/faith-blog/fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"), url("/https://pooja4101998.github.io/pictures_game/wp-content/themes/faith-blog/fonts/fontawesome-webfont.woff?v=4.7.0") format("woff");
+    src: url("http://localhost/https:/pooja4101998.github.io/pictures_game/wp-content/themes/faith-blog/fonts/fontawesome-webfont.woff2?v=4.7.0") format("woff2"), url("http://localhost/https:/pooja4101998.github.io/pictures_game/wp-content/themes/faith-blog/fonts/fontawesome-webfont.woff?v=4.7.0") format("woff");
     font-weight: normal;
     font-style: normal;
 }
@@ -11264,7 +11264,7 @@ header.archive-page-header h1.page-title {
     top: 50%;
     margin-left: -40px;
     margin-top: -40px;
-    background: url("/https://pooja4101998.github.io/pictures_game/wp-content/themes/faith-blog/owl.video.play.png") no-repeat;
+    background: url("http://localhost/https:/pooja4101998.github.io/pictures_game/wp-content/themes/faith-blog/owl.video.play.png") no-repeat;
     cursor: pointer;
     z-index: 1;
     -webkit-backface-visibility: hidden;
