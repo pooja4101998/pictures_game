@@ -8,33 +8,41 @@
 	>
 
 <channel>
-	<title>poojaparlapalli@gmail.com</title>
-	<atom:link href="http://pooja4101998.github.io/pictures_game/author/poojaparlapalligmail-com/feed/" rel="self" type="application/rss+xml" />
-	<link>http://pooja4101998.github.io/pictures_game</link>
-	<description></description>
-	<lastBuildDate>Tue, 22 Dec 2020 15:34:24 +0000</lastBuildDate>
+	<title>poojaparlapalli@gmail.com &#8211; PICTURES GAME</title>
+	<atom:link href="https://pooja4101998.github.io/pictures_game/author/poojaparlapalligmail-com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://pooja4101998.github.io/pictures_game</link>
+	<description>Strong companies are fueled by teams that have enviable levels of camaraderie</description>
+	<lastBuildDate>Wed, 23 Dec 2020 05:12:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>https://pooja4101998.github.io/pictures_game/wp-content/uploads/2020/12/cropped-b083c09ed0be90c160d50a72cbe35f63-32x32.jpg</url>
+	<title>poojaparlapalli@gmail.com &#8211; PICTURES GAME</title>
+	<link>https://pooja4101998.github.io/pictures_game</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Hello world!</title>
-		<link>http://pooja4101998.github.io/pictures_game/2020/12/22/hello-world/</link>
-					<comments>http://pooja4101998.github.io/pictures_game/2020/12/22/hello-world/#comments</comments>
+		<link>https://pooja4101998.github.io/pictures_game/2020/12/23/hello-world/</link>
+					<comments>https://pooja4101998.github.io/pictures_game/2020/12/23/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[poojaparlapalli@gmail.com]]></dc:creator>
-		<pubDate>Tue, 22 Dec 2020 15:34:24 +0000</pubDate>
+		<pubDate>Wed, 23 Dec 2020 05:12:24 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://pooja4101998.github.io/pictures_game/?p=1</guid>
+		<guid isPermaLink="false">https://pooja4101998.github.io/pictures_game/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://pooja4101998.github.io/pictures_game/2020/12/22/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://pooja4101998.github.io/pictures_game/2020/12/23/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

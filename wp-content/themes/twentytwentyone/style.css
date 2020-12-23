@@ -5852,3 +5852,13 @@ footer {
 .is-IE .post-thumbnail .wp-post-image {
 	min-width: auto;
 }
+.container{
+	position:relative;
+	
+}
+.text{
+	position:absolute;
+	top:50%;
+	bottom:5%;
+	left:50%;
+}
